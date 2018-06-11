@@ -1,0 +1,12 @@
+﻿  advanced_lighting.cpp
+e:\myopengl\5.1.advanced_lighting\advanced_lighting.cpp(129): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\5.1.advanced_lighting\advanced_lighting.cpp(161): warning C4800: “GLboolean”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\myopengl\5.1.advanced_lighting\advanced_lighting.cpp(213): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\5.1.advanced_lighting\advanced_lighting.cpp(214): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\5.1.advanced_lighting\advanced_lighting.cpp(218): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\5.1.advanced_lighting\advanced_lighting.cpp(219): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\5.1.advanced_lighting\advanced_lighting.cpp(220): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\5.1.advanced_lighting\advanced_lighting.cpp(221): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\5.1.advanced_lighting\advanced_lighting.cpp(229): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  5.1.advanced_lighting.vcxproj -> E:\MyOpenGL\Debug\5.1.advanced_lighting.exe
+  5.1.advanced_lighting.vcxproj -> E:\MyOpenGL\Debug\5.1.advanced_lighting.pdb (Partial PDB)

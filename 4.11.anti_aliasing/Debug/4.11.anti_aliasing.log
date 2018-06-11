@@ -1,0 +1,11 @@
+﻿  anti_aliasing.cpp
+e:\myopengl\4.11.anti_aliasing\anti_aliasing.cpp(245): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.11.anti_aliasing\anti_aliasing.cpp(332): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.11.anti_aliasing\anti_aliasing.cpp(333): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.11.anti_aliasing\anti_aliasing.cpp(337): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.11.anti_aliasing\anti_aliasing.cpp(338): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.11.anti_aliasing\anti_aliasing.cpp(339): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.11.anti_aliasing\anti_aliasing.cpp(340): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.11.anti_aliasing\anti_aliasing.cpp(348): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  4.11.anti_aliasing.vcxproj -> E:\MyOpenGL\Debug\4.11.anti_aliasing.exe
+  4.11.anti_aliasing.vcxproj -> E:\MyOpenGL\Debug\4.11.anti_aliasing.pdb (Partial PDB)

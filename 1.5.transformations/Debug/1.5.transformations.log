@@ -1,0 +1,4 @@
+﻿  transformations.cpp
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  1.5.transformations.vcxproj -> E:\MyOpenGL\Debug\1.5.transformations.exe
+  1.5.transformations.vcxproj -> E:\MyOpenGL\Debug\1.5.transformations.pdb (Partial PDB)

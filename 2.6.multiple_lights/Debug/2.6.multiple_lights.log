@@ -1,0 +1,21 @@
+﻿  multiple_lights.cpp
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(177): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(218): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(219): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(226): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(227): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(234): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(235): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(242): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(243): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(251): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(252): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(329): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(330): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(334): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(335): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(336): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(337): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.6.multiple_lights\multiple_lights.cpp(345): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  2.6.multiple_lights.vcxproj -> E:\MyOpenGL\Debug\2.6.multiple_lights.exe
+  2.6.multiple_lights.vcxproj -> E:\MyOpenGL\Debug\2.6.multiple_lights.pdb (Partial PDB)

@@ -1,0 +1,7 @@
+﻿  Building Custom Rule E:/glfw-3.2.1/tests/CMakeLists.txt
+  CMake does not need to re-run because E:/MyOpenGL/tests/CMakeFiles/generate.stamp is up-to-date.
+  timeout.c
+  glad.c
+  正在生成代码...
+  timeout.vcxproj -> E:\MyOpenGL\tests\Debug\timeout.exe
+  timeout.vcxproj -> E:/MyOpenGL/tests/Debug/timeout.pdb (Full PDB)

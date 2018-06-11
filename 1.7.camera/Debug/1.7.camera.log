@@ -1,0 +1,11 @@
+﻿  camera.cpp
+e:\myopengl\1.7.camera\camera.cpp(216): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\1.7.camera\camera.cpp(336): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\1.7.camera\camera.cpp(337): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\1.7.camera\camera.cpp(341): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\1.7.camera\camera.cpp(342): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\1.7.camera\camera.cpp(343): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\1.7.camera\camera.cpp(344): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\1.7.camera\camera.cpp(370): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+  1.7.camera.vcxproj -> E:\MyOpenGL\Debug\1.7.camera.exe
+  1.7.camera.vcxproj -> E:\MyOpenGL\Debug\1.7.camera.pdb (Partial PDB)

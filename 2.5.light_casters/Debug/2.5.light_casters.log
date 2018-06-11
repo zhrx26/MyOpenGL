@@ -1,0 +1,11 @@
+﻿  light_casters.cpp
+e:\myopengl\2.5.light_casters\light_casters.cpp(170): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.5.light_casters\light_casters.cpp(295): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.5.light_casters\light_casters.cpp(296): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.5.light_casters\light_casters.cpp(300): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.5.light_casters\light_casters.cpp(301): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.5.light_casters\light_casters.cpp(302): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.5.light_casters\light_casters.cpp(303): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.5.light_casters\light_casters.cpp(311): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  2.5.light_casters.vcxproj -> E:\MyOpenGL\Debug\2.5.light_casters.exe
+  2.5.light_casters.vcxproj -> E:\MyOpenGL\Debug\2.5.light_casters.pdb (Partial PDB)

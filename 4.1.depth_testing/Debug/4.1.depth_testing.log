@@ -1,0 +1,11 @@
+﻿  depth_testing.cpp
+e:\myopengl\4.1.depth_testing\depth_testing.cpp(180): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.1.depth_testing\depth_testing.cpp(264): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.1.depth_testing\depth_testing.cpp(265): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.1.depth_testing\depth_testing.cpp(269): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.1.depth_testing\depth_testing.cpp(270): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.1.depth_testing\depth_testing.cpp(271): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.1.depth_testing\depth_testing.cpp(272): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.1.depth_testing\depth_testing.cpp(280): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  4.1.depth_testing.vcxproj -> E:\MyOpenGL\Debug\4.1.depth_testing.exe
+  4.1.depth_testing.vcxproj -> E:\MyOpenGL\Debug\4.1.depth_testing.pdb (Partial PDB)

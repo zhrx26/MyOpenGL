@@ -1,0 +1,7 @@
+﻿  Building Custom Rule E:/glfw-3.2.1/tests/CMakeLists.txt
+  CMake does not need to re-run because E:/MyOpenGL/tests/CMakeFiles/generate.stamp is up-to-date.
+  cursor.c
+  glad.c
+  正在生成代码...
+  cursor.vcxproj -> E:\MyOpenGL\tests\Debug\cursor.exe
+  cursor.vcxproj -> E:/MyOpenGL/tests/Debug/cursor.pdb (Full PDB)

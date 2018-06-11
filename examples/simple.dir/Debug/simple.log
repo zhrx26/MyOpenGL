@@ -1,0 +1,7 @@
+﻿  Building Custom Rule E:/glfw-3.2.1/examples/CMakeLists.txt
+  CMake does not need to re-run because E:/MyOpenGL/examples/CMakeFiles/generate.stamp is up-to-date.
+  simple.c
+  glad.c
+  正在生成代码...
+  simple.vcxproj -> E:\MyOpenGL\examples\Debug\simple.exe
+  simple.vcxproj -> E:/MyOpenGL/examples/Debug/simple.pdb (Full PDB)

@@ -1,0 +1,11 @@
+﻿  face_culling.cpp
+e:\myopengl\4.4.face_culling\face_culling.cpp(239): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.4.face_culling\face_culling.cpp(349): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.4.face_culling\face_culling.cpp(350): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.4.face_culling\face_culling.cpp(354): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.4.face_culling\face_culling.cpp(355): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.4.face_culling\face_culling.cpp(356): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.4.face_culling\face_culling.cpp(357): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.4.face_culling\face_culling.cpp(365): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  4.4.face_culling.vcxproj -> E:\MyOpenGL\Debug\4.4.face_culling.exe
+  4.4.face_culling.vcxproj -> E:\MyOpenGL\Debug\4.4.face_culling.pdb (Partial PDB)

@@ -1,0 +1,8 @@
+﻿  Building Custom Rule E:/glfw-3.2.1/tests/CMakeLists.txt
+  CMake does not need to re-run because E:/MyOpenGL/tests/CMakeFiles/generate.stamp is up-to-date.
+  tearing.c
+  getopt.c
+  glad.c
+  正在生成代码...
+  tearing.vcxproj -> E:\MyOpenGL\tests\Debug\tearing.exe
+  tearing.vcxproj -> E:/MyOpenGL/tests/Debug/tearing.pdb (Full PDB)

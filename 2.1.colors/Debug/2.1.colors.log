@@ -1,0 +1,11 @@
+﻿  colors.cpp
+e:\myopengl\2.1.colors\colors.cpp(150): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.1.colors\colors.cpp(231): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.1.colors\colors.cpp(232): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.1.colors\colors.cpp(236): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.1.colors\colors.cpp(237): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.1.colors\colors.cpp(238): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.1.colors\colors.cpp(239): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.1.colors\colors.cpp(247): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  2.1.colors.vcxproj -> E:\MyOpenGL\Debug\2.1.colors.exe
+  2.1.colors.vcxproj -> E:\MyOpenGL\Debug\2.1.colors.pdb (Partial PDB)

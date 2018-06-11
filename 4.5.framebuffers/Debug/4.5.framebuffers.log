@@ -1,0 +1,11 @@
+﻿  framebuffers.cpp
+e:\myopengl\4.5.framebuffers\framebuffers.cpp(304): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.5.framebuffers\framebuffers.cpp(428): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.5.framebuffers\framebuffers.cpp(429): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.5.framebuffers\framebuffers.cpp(433): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.5.framebuffers\framebuffers.cpp(434): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.5.framebuffers\framebuffers.cpp(435): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.5.framebuffers\framebuffers.cpp(436): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.5.framebuffers\framebuffers.cpp(444): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  4.5.framebuffers.vcxproj -> E:\MyOpenGL\Debug\4.5.framebuffers.exe
+  4.5.framebuffers.vcxproj -> E:\MyOpenGL\Debug\4.5.framebuffers.pdb (Partial PDB)

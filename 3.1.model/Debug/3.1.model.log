@@ -1,0 +1,21 @@
+﻿  model.cpp
+e:\myopengl\3.1.model\model.cpp(161): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\3.1.model\model.cpp(200): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\3.1.model\model.cpp(201): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\3.1.model\model.cpp(208): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\3.1.model\model.cpp(209): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\3.1.model\model.cpp(216): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\3.1.model\model.cpp(217): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\3.1.model\model.cpp(224): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\3.1.model\model.cpp(225): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\3.1.model\model.cpp(233): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\3.1.model\model.cpp(234): warning C4305: “参数”: 从“double”到“float”截断
+e:\myopengl\3.1.model\model.cpp(296): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\3.1.model\model.cpp(297): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\3.1.model\model.cpp(301): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\3.1.model\model.cpp(302): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\3.1.model\model.cpp(303): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\3.1.model\model.cpp(304): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\3.1.model\model.cpp(312): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  3.1.model.vcxproj -> E:\MyOpenGL\Debug\3.1.model.exe
+  3.1.model.vcxproj -> E:\MyOpenGL\Debug\3.1.model.pdb (Partial PDB)

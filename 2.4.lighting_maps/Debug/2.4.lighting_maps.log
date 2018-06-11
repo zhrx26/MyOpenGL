@@ -1,0 +1,11 @@
+﻿  lighting_maps.cpp
+e:\myopengl\2.4.lighting_maps\lighting_maps.cpp(160): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.4.lighting_maps\lighting_maps.cpp(266): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.4.lighting_maps\lighting_maps.cpp(267): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.4.lighting_maps\lighting_maps.cpp(271): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.4.lighting_maps\lighting_maps.cpp(272): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.4.lighting_maps\lighting_maps.cpp(273): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.4.lighting_maps\lighting_maps.cpp(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\2.4.lighting_maps\lighting_maps.cpp(282): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  2.4.lighting_maps.vcxproj -> E:\MyOpenGL\Debug\2.4.lighting_maps.exe
+  2.4.lighting_maps.vcxproj -> E:\MyOpenGL\Debug\2.4.lighting_maps.pdb (Partial PDB)

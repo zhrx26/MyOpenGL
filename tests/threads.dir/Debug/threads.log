@@ -1,0 +1,8 @@
+﻿  Building Custom Rule E:/glfw-3.2.1/tests/CMakeLists.txt
+  CMake does not need to re-run because E:/MyOpenGL/tests/CMakeFiles/generate.stamp is up-to-date.
+  threads.c
+  tinycthread.c
+  glad.c
+  正在生成代码...
+  threads.vcxproj -> E:\MyOpenGL\tests\Debug\threads.exe
+  threads.vcxproj -> E:/MyOpenGL/tests/Debug/threads.pdb (Full PDB)

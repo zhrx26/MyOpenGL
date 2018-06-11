@@ -1,0 +1,11 @@
+﻿  advanced_glsl.cpp
+e:\myopengl\4.8.advanced_glsl\advanced_glsl.cpp(216): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.8.advanced_glsl\advanced_glsl.cpp(330): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.8.advanced_glsl\advanced_glsl.cpp(331): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.8.advanced_glsl\advanced_glsl.cpp(335): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.8.advanced_glsl\advanced_glsl.cpp(336): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.8.advanced_glsl\advanced_glsl.cpp(337): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.8.advanced_glsl\advanced_glsl.cpp(338): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.8.advanced_glsl\advanced_glsl.cpp(346): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  4.8.advanced_glsl.vcxproj -> E:\MyOpenGL\Debug\4.8.advanced_glsl.exe
+  4.8.advanced_glsl.vcxproj -> E:\MyOpenGL\Debug\4.8.advanced_glsl.pdb (Partial PDB)

@@ -1,0 +1,11 @@
+﻿  blending.cpp
+e:\myopengl\4.3.blending\blending.cpp(254): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.3.blending\blending.cpp(382): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.3.blending\blending.cpp(383): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.3.blending\blending.cpp(387): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.3.blending\blending.cpp(388): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.3.blending\blending.cpp(389): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.3.blending\blending.cpp(390): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.3.blending\blending.cpp(398): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  4.3.blending.vcxproj -> E:\MyOpenGL\Debug\4.3.blending.exe
+  4.3.blending.vcxproj -> E:\MyOpenGL\Debug\4.3.blending.pdb (Partial PDB)

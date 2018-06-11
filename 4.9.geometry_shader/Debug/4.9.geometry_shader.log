@@ -1,0 +1,11 @@
+﻿  geometry_shader.cpp
+e:\myopengl\4.9.geometry_shader\geometry_shader.cpp(128): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.9.geometry_shader\geometry_shader.cpp(224): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.9.geometry_shader\geometry_shader.cpp(225): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.9.geometry_shader\geometry_shader.cpp(229): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.9.geometry_shader\geometry_shader.cpp(230): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.9.geometry_shader\geometry_shader.cpp(231): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.9.geometry_shader\geometry_shader.cpp(232): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.9.geometry_shader\geometry_shader.cpp(240): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  4.9.geometry_shader.vcxproj -> E:\MyOpenGL\Debug\4.9.geometry_shader.exe
+  4.9.geometry_shader.vcxproj -> E:\MyOpenGL\Debug\4.9.geometry_shader.pdb (Partial PDB)

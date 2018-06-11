@@ -1,0 +1,11 @@
+﻿  cubemaps.cpp
+e:\myopengl\4.6.cubemaps\cubemaps.cpp(425): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.6.cubemaps\cubemaps.cpp(572): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.6.cubemaps\cubemaps.cpp(573): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.6.cubemaps\cubemaps.cpp(577): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.6.cubemaps\cubemaps.cpp(578): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.6.cubemaps\cubemaps.cpp(579): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.6.cubemaps\cubemaps.cpp(580): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.6.cubemaps\cubemaps.cpp(588): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  4.6.cubemaps.vcxproj -> E:\MyOpenGL\Debug\4.6.cubemaps.exe
+  4.6.cubemaps.vcxproj -> E:\MyOpenGL\Debug\4.6.cubemaps.pdb (Partial PDB)

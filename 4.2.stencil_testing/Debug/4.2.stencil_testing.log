@@ -1,0 +1,12 @@
+﻿  stencil_testing.cpp
+e:\myopengl\4.2.stencil_testing\stencil_testing.cpp(191): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.2.stencil_testing\stencil_testing.cpp(241): warning C4305: “初始化”: 从“double”到“float”截断
+e:\myopengl\4.2.stencil_testing\stencil_testing.cpp(314): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.2.stencil_testing\stencil_testing.cpp(315): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.2.stencil_testing\stencil_testing.cpp(319): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.2.stencil_testing\stencil_testing.cpp(320): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.2.stencil_testing\stencil_testing.cpp(321): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.2.stencil_testing\stencil_testing.cpp(322): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myopengl\4.2.stencil_testing\stencil_testing.cpp(330): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  4.2.stencil_testing.vcxproj -> E:\MyOpenGL\Debug\4.2.stencil_testing.exe
+  4.2.stencil_testing.vcxproj -> E:\MyOpenGL\Debug\4.2.stencil_testing.pdb (Partial PDB)
